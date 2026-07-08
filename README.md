@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nilesh Anil Bhat</h1>
+<h1 align="center">Hi 👋, I'm Nilesh Bhat</h1>
 
 <h3 align="center">Computer Science Engineering Student | MERN Stack Developer | Machine Learning Enthusiast</h3>
 
