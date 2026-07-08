@@ -101,7 +101,7 @@ A structured JavaScript learning repository covering ES6+, DOM, asynchronous Jav
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Nileshbhat7
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: *https://www.linkedin.com/in/nileshbhat07/*
 - Email: **bhatnilesh07@gmail.com**
 
 ---
